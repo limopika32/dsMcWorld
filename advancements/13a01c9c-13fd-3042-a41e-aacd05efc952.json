@@ -1,0 +1,27 @@
+{
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-01-07 18:58:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-01-07 18:58:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-07 18:58:37 +0900"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-01-07 18:58:38 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3337
+}

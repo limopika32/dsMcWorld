@@ -1,0 +1,389 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-01-08 04:44:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-01-08 04:44:32 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-01-08 04:44:32 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/blue_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/cut_sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/black_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/cyan_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/dark_prismarine_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/prismarine_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/polished_diorite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/purpur_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/quartz_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/shulker_box": {
+    "criteria": {
+      "has_chest": "2024-01-09 01:17:42 +0900",
+      "has_item": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/white_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/pink_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/diorite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/gray_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/orange_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/polished_andesite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/brown_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/smooth_red_sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/end_stone_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "dropper_to_dispenser:recipes/building_blocks/dropper_to_dispenser/dispenser_alternate": {
+    "criteria": {
+      "has_string": "2024-01-09 01:17:42 +0900",
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_stick": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/purple_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/mud_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/bread": {
+    "criteria": {
+      "has_item": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/yellow_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/green_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/cut_red_sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/magenta_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/paper": {
+    "criteria": {
+      "has_item": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/smooth_stone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "uncraftable_ice:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_blue_ice": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "dropper_to_dispenser:recipes/building_blocks/dropper_to_dispenser/dispenser": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_bow": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/andesite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/smooth_sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "rotten_flesh_to_leather:recipes/misc/leather": {
+    "criteria": {
+      "has_flesh": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/red_nether_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/prismarine_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/smooth_quartz_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/polished_granite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/nether_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/cobblestone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/red_sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/lime_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/red_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/light_gray_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "uncraftable_ice:recipes/building_blocks/ice": {
+    "criteria": {
+      "has_packed_ice": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "powder_to_glass:recipes/misc/light_blue_stained_glass": {
+    "criteria": {
+      "has_powder": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/granite_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/stone_brick_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/sandstone_slab": {
+    "criteria": {
+      "has_block": "2024-01-09 01:17:42 +0900",
+      "has_slab": "2024-01-09 01:17:42 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-01-09 07:01:59 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-13 00:50:09 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-01-13 00:50:09 +0900"
+    },
+    "done": true
+  },
+  "DataVersion": 3337
+}

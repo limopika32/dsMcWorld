@@ -1,0 +1,11 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.19
+Packs:
+	unpackable ice
+	rotten flesh to leather
+	dropper to dispenser
+	double slabs
+	charcoal to black dye
+	coal to black dye
+	powder to glass
+	straight to shapeless
